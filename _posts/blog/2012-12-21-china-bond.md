@@ -6,7 +6,7 @@ category: blog
 ---
 
 # [{{ page.title }}][1]
-2011-12-29 By {{ site.author_info }}
+2012-12-21 By {{ site.author_info }}
 
 目前中国债券市场:
 
